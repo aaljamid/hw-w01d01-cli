@@ -8,3 +8,4 @@
 
 - Complete the [Favorite Things Assignment](FavoriteThings/README.md). 
 - Complete the [Star Wars Assignment](StarWars/README.md).
+- Complete the [The Command Line Murders](https://github.com/veltman/clmystery)
